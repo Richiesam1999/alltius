@@ -1,0 +1,59 @@
+=== LINK: https://www.angelone.in/support/charts ===
+
+We are here to help you Quick Links (10) Track Application Status Know how to track your account opening application status on Angel One application Learn More Segment Activation Process Learn how to activate F&O, Commodity and Currency segments on Angel One Learn More Fund Payout Status Know all about fund payout/withdrawal process Learn More Check Order Status Learn how to check the status of your order in Angel One app Learn More Brokerage and Charges Know all about the brokerage and charges applicable on your trades Learn More Fund Addition Step by step guide to add funds to your Angel One account Learn More Bank Account Addition Know the process add a new bank account to Angel One Learn More Profile Modification Learn how to modify mobile number, Email ID and other profile details in Angel One Learn More DDPI (POA) process Learn how to activate DDPI and the benefits associated with it Learn More Refer and Earn Know about how refer and earn works on Angel One Learn More
+Quick Links (10) Track Application
+Learn how to modify mobile number, Email ID and other profile details in Angel One
+DDPI (POA) process Learn how to activate DDPI and the benefits associated with it Learn More
+
+Learn how to activate DDPI and the benefits associated with it
+Refer and Earn Know about how refer and earn works on Angel One Learn More
+
+Know about how refer and earn works on Angel One
+Chart not Loading Chart not Loading Drawing Tools Indicators Multi Charts Trade From Charts Others My chart is not loading and showing "Something went wrong". What should I do? Open Playstore Search for Google Chrome on Playstore Update Google Chrome or your default browser to the latest version The chart should load successfully now If the chart loading fails & issue still exists : Open Playstore again Search for Android System Webview Click to Update the Android System Webview to the latest version My Chart view is not loading in Angel One web app. What should I do? Go to settings -> privacy and security -> clear browser history. My Chart view is not loading in Angel One mobile app. What should I do? Open application settings and clear cache and clear data, once cleared, chart should load. Price is not updating realtime on charts on the Angel one web app. What should I do? Always check system timezone is in sync with your chart timestamp. Also device timezone is synced with IST. What should I do if I am living in other timezones from India and my chart is not updating real time or candles are not forming improperly? If the charts are not working correctly in other timezones , try to come in Indian timezone and check the functioning of charts. Our team is working to give a more flexible and permanent fix for this. Still need help? Create Ticket Want to connect with us? Our experts will be happy to assist you Connect with us Still have any queries? Connect with our support team. CONTACT US Partnership Request For any partnership requests please reach us at partners@angelbroking.com Media Queries 022-40003600(Extn: 6925) EMAIL US
+
+Indicators
+Multi Charts
+Trade From Charts
+Others
+My chart is not loading and showing "Something went wrong". What should I do? Open Playstore Search for Google Chrome on Playstore Update Google Chrome or your default browser to the latest version The chart should load successfully now If the chart loading fails & issue still exists : Open Playstore again Search for Android System Webview Click to Update the Android System Webview to the latest version My Chart view is not loading in Angel One web app. What should I do? Go to settings -> privacy and security -> clear browser history. My Chart view is not loading in Angel One mobile app. What should I do? Open application settings and clear cache and clear data, once cleared, chart should load. Price is not updating realtime on charts on the Angel one web app. What should I do? Always check system timezone is in sync with your chart timestamp. Also device timezone is synced with IST. What should I do if I am living in other timezones from India and my chart is not updating real time or candles are not forming improperly? If the charts are not working correctly in other timezones , try to come in Indian timezone and check the functioning of charts. Our team is working to give a more flexible and permanent fix for this. Still need help? Create Ticket
+My chart is not loading and showing "Something went wrong". What should I do? Open Playstore Search for Google Chrome on Playstore Update Google Chrome or your default browser to the latest version The chart should load successfully now If the chart loading fails & issue still exists : Open Playstore again Search for Android System Webview Click to Update the Android System Webview to the latest version
+Open Playstore Search for Google Chrome on Playstore Update Google Chrome or your default browser to the latest version The chart should load successfully now If the chart loading fails & issue still exists : Open Playstore again Search for Android System Webview Click to Update the Android System Webview to the latest version
+My Chart view is not loading in Angel One web app. What should I do? Go to settings -> privacy and security -> clear browser history.
+Go to settings -> privacy and security -> clear browser history.
+My Chart view is not loading in Angel One mobile app. What should I do? Open application settings and clear cache and clear data, once cleared, chart should load.
+Open application settings and clear cache and clear data, once cleared, chart should load.
+Price is not updating realtime on charts on the Angel one web app. What should I do? Always check system timezone is in sync with your chart timestamp. Also device timezone is synced with IST.
+Always check system timezone is in sync with your chart timestamp. Also device timezone is synced with IST.
+What should I do if I am living in other timezones from India and my chart is not updating real time or candles are not forming improperly? If the charts are not working correctly in other timezones , try to come in Indian timezone and check the functioning of charts. Our team is working to give a more flexible and permanent fix for this.
+If the charts are not working correctly in other timezones , try to come in Indian timezone and check the functioning of charts. Our team is working to give a more flexible and permanent fix for this.
+If the charts are not working correctly in other timezones , try to come in Indian timezone and check the functioning of charts.
+How to use Trade From Charts functionality on Angel One web app? Please find the details of Trade from Charts functionality in this article . How to track open orders and positions on charts ? Please visit this link for detailed guidance on tracking open orders and positions on charts How to place Direct and Instant Orders on charts ? Please refer to this article . Still need help? Create Ticket
+How to use Trade From Charts functionality on Angel One web app? Please find the details of Trade from Charts functionality in this article .
+Please find the details of Trade from Charts functionality in this article .
+How to track open orders and positions on charts ? Please visit this link for detailed guidance on tracking open orders and positions on charts
+Please visit this link for detailed guidance on tracking open orders and positions on charts
+How to place Direct and Instant Orders on charts ? Please refer to this article .
+Is multi chart view available on both - web & mobile? No it is right now only available on web app. How to use Multi Chart functionality on Angel One web app? Please find the details of multi chart functionality in this artilcle . How do I compare multiple scrip/contract on the chart view? Multi Chart View Guide – We have introduced Multiple chart layout in our web app view as of now. Users can select the multiple chart layout from the select layout icon on the chart header. When we will select any scrip , it will get populated on the selected frame. Users can then compare different compare different scrip on a multi chart view. Is multi chart functionality free or paid? Multi chart feature is absolutely free on Angel One. Still need help? Create Ticket
+Is multi chart view available on both - web & mobile? No it is right now only available on web app.
+No it is right now only available on web app.
+How to use Multi Chart functionality on Angel One web app? Please find the details of multi chart functionality in this artilcle .
+Please find the details of multi chart functionality in this artilcle .
+How do I compare multiple scrip/contract on the chart view? Multi Chart View Guide – We have introduced Multiple chart layout in our web app view as of now. Users can select the multiple chart layout from the select layout icon on the chart header. When we will select any scrip , it will get populated on the selected frame. Users can then compare different compare different scrip on a multi chart view.
+Multi Chart View Guide – We have introduced Multiple chart layout in our web app view as of now. Users can select the multiple chart layout from the select layout icon on the chart header. When we will select any scrip , it will get populated on the selected frame. Users can then compare different compare different scrip on a multi chart view.
+Multi Chart View Guide – We have introduced Multiple chart layout in our web app view as of now.
+Users can select the multiple chart layout from the select layout icon on the chart header. When we will select any scrip , it will get populated on the selected frame.
+Users can then compare different compare different scrip on a multi chart view.
+Is multi chart functionality free or paid? Multi chart feature is absolutely free on Angel One.
+
+
+
+
+Our team is working to give a more flexible and permanent fix for this.
+Still need help? Create Ticket
+Still have any queries? Connect with our support team.
+Partnership Request For any partnership requests please reach us at partners@angelbroking.com
+Partnership Request
+For any partnership requests please reach us at
+Media Queries 022-40003600(Extn: 6925) EMAIL US
+Media Queries
+022-40003600(Extn: 6925)
